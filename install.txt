@@ -1,0 +1,12 @@
+1.conda install -c conda-forge face-recognition  
+
+2.conda install -c conda-forge imutils   
+
+3.conda install -c conda-forge opencv    
+
+4.conda install -c anaconda requests    
+
+5.pip install pyttsx3
+
+main.py
+--shape-predictor shape_predictor_68_face_landmarks.dat  	--video blink_detection_demo.mp4
