@@ -1,7 +1,3 @@
-Create a new text file:
-
-Open a text editor (like Notepad, Visual Studio Code, or any other you prefer) and paste the code below:
-
 # Eye Blink Detection and Home Automation
 
 This project involves detecting eye blinks in a video stream using dlib and OpenCV. It also integrates with home automation using voice commands.
@@ -40,7 +36,8 @@ bash
 Copy code
 python main.py--shape-predictor shape_predictor_68_face_landmarks.dat
 Press q to exit the program.
-  
+This "shape-predictor shape_predictor_68_face_landmarks.dat" file is a pre-trained model you can download using the links 
+https://drive.google.com/file/d/1Nicx0KElCWG_BvHYCi8aw3cCUNIeXj_j/view?usp=drive_link
 Built With
 Python - The programming language used
 dlib - Library for machine learning in python
